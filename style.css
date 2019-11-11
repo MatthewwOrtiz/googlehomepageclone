@@ -1,3 +1,15 @@
-#main {text-align: center; padding-top: 10%; }
-#right {text-align: right;}
-#left{text-align: left;}
+#main {text-align: center; padding-top: 10%;}
+#navbar {display: inline; }
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+    padding: 5px;
+  }
